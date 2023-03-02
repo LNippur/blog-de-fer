@@ -1,0 +1,11 @@
+--> git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME.git
+
+seria entonces:
+git remote add origin https://github.com/LNippur/blog-de-fer.git
+git branch -M main
+git push -u origin main
+
+
+en gatsby site luego de construir y relacionarlo con github:
+con este link es visible desde internet:
+https://build-96115ac5-f5ee-4ff9-beef-aadf2e7f7ff0.gatsbyjs.io
